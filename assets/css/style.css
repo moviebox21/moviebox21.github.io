@@ -5,13 +5,13 @@ html, body {
   padding-bottom:38px;
 }
 .navbar{
-  height:50px;
+  height:55px;
   background-color: #2d2c4d;
 }
 .mylogo{
-  width:220px;
-  height:30px;
-  margin-top:10px;
+  width:230px;
+  height:32px;
+  margin-top:11px;
 }
 
 *, ::after, ::before {
@@ -92,7 +92,7 @@ img {
 }
 
 .filter{
-  top:-8px;
+  top:-5px;
   color:white;
   width:0px;
   height:35px;
