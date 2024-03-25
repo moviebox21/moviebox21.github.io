@@ -1650,7 +1650,7 @@ $("#search-form").submit(function(e) {
 
 $(document).ready(function(){
   var list = $("#list-movie .movie-card");
-  var numToShow = 30;
+  var numToShow = 50;
   var button = $("#movie-lainnya");
   var numInList = list.length;
   list.hide();
